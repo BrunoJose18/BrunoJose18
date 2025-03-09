@@ -7,16 +7,16 @@
 
 - 🛠️ Skills
 Languages
-!Javascript&nbsp;
-!Python&nbsp;
+Javascript;
+Python;
 
 - Development
-!HTML5&nbsp;
-!CSS3&nbsp;
+HTML5;
+CSS3;
 
 
 - Database
-!MySQL&nbsp;
+MySQL;
 
 - Tools and Technologies
-!Git&nbsp;
+Git;
